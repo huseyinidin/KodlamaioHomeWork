@@ -1,4 +1,4 @@
-package friendlyNumber;
+package friendlyNumber.src.friendlyNumber;
 
 public class Main {
 	
