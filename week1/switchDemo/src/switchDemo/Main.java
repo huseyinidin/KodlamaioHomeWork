@@ -1,4 +1,4 @@
-package switchDemo;
+package switchDemo.src.switchDemo;
 
 public class Main {
 	
