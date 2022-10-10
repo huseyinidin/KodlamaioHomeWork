@@ -1,4 +1,4 @@
-package findANumber;
+package findANumber.src.findANumber;
 
 public class Main {
 
