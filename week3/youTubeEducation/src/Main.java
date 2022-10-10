@@ -4,6 +4,7 @@ public class Main {
 
 	public static void main(String[] args) {
 
+		// ARRAY REFERENCE TYPE
 		int[] numbers1 = { 1, 2, 3 };
 		int[] numbers2 = { 10, 20, 30 };
 		
@@ -13,7 +14,8 @@ public class Main {
 		
 		System.out.println(numbers1[0]);
 
-		/*
+		/* VALUE TYPE 
+		 * 
 		 * int number1 = 10; int number2 = 20;
 		 * 
 		 * number1 = number2; 
