@@ -1,4 +1,4 @@
-package classesWithAttributes;
+package classesWithAttributes2.src.classesWithAttributes;
 
 public class ProductManager {
 	public void add(Product product) {

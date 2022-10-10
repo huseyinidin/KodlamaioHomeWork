@@ -1,4 +1,4 @@
-package classesWithAttributes;
+package classesWithAttributes2.src.classesWithAttributes;
 
 public class Product {
 
