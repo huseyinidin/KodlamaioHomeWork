@@ -1,4 +1,4 @@
-package multiDimensionalArrayDemo;
+package multiDimensionalArrayDemo.src.multiDimensionalArrayDemo;
 
 public class Main {
 	
