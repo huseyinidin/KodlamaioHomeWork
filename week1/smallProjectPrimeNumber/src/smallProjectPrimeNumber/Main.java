@@ -1,4 +1,4 @@
-package smallProjectPrimeNumber;
+package smallProjectPrimeNumber.src.smallProjectPrimeNumber;
 
 public class Main {
 	
