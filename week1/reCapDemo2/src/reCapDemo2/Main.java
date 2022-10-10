@@ -1,4 +1,4 @@
-package reCapDemo2;
+package reCapDemo2.src.reCapDemo2;
 
 public class Main {
 	
