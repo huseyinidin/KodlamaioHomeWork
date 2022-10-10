@@ -1,4 +1,4 @@
-package classesWithAttributes;
+package classesWithAttributes.src.classesWithAttributes;
 
 public class Main {
 
