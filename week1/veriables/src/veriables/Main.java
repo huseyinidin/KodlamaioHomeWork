@@ -1,4 +1,4 @@
-package veriables;
+package veriables.src.veriables;
 
 public class Main {
 	
