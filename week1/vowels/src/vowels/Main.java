@@ -1,4 +1,4 @@
-package vowels;
+package vowels.src.vowels;
 
 public class Main {
 	
