@@ -1,4 +1,4 @@
-package HelloWorld;
+package HelloWorld.src.HelloWorld;
 
 public class Main {
 
