@@ -1,4 +1,4 @@
-package stringDemo;
+package stringDemo.src.stringDemo;
 
 public class Main {
 	
