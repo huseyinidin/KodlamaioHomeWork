@@ -1,4 +1,4 @@
-package methods2;
+package methods2.src.methods2;
 
 public class Main {
 
