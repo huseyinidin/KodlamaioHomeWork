@@ -1,4 +1,4 @@
-package arraysDemo;
+package arraysDemo.src.arraysDemo;
 
 public class Main {
 	
