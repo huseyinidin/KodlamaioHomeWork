@@ -1,4 +1,4 @@
-package perfectNumber;
+package perfectNumber.src.perfectNumber;
 
 public class Main {
 	
