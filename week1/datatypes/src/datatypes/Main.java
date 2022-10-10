@@ -1,4 +1,4 @@
-package datatypes;
+package datatypes.src.datatypes;
 
 public class Main {
 	
