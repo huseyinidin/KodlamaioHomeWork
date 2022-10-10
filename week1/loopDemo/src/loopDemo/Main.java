@@ -1,4 +1,4 @@
-package loopDemo;
+package loopDemo.src.loopDemo;
 
 public class Main {
 	
