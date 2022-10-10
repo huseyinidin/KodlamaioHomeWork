@@ -1,4 +1,4 @@
-package conditionals;
+package conditionals.src.conditionals;
 
 public class Main {
 	
