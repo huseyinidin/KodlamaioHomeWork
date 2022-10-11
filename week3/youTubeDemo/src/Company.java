@@ -3,7 +3,7 @@ package youTubeDemo.src;
 //	INHERITANCE 
 public class Company extends Customer {
 
-	public String companyName;
+	public String companyNa_me;
 	public String taxNumber;
 
 }
