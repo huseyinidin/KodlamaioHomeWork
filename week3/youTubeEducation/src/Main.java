@@ -1,4 +1,4 @@
-package youTubeEducation.src;
+package youTubeEducation.src
 
 public class Main {
 
