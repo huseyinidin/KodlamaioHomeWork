@@ -2,10 +2,9 @@ package abstractClasses.src;
 
 public class KidsGameCalculator extends GameCalculator{
 
-	@Override // inheritance
+	@Override  // inheritance
 	public void calculate() {
-		// TODO Auto-generated method stub
-		
+		System.out.println("Skor : 99");
 	}
 
 }
