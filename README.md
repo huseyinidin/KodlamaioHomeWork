@@ -17,5 +17,8 @@ This repository consists of practice and project homework.
 	 - `13- Four Operations` `14 - Inheritance` `15 - Inheritance - Polymorphism`
  - **Week 3**
 	 - [*Week 3*](https://github.com/huseyinidin/KodlamaioHomeWork/tree/main/week3)
-	 - ``		
-	
+	 - `1 - Polimorfizm` `2 - Overriding` `3 - Abstract Classes` `4 - Abstract Demo` `5 - Interfaces` 
+	 - `6 - Interface with Polymorphism` `7 - Interface Demo` `8 - Inner Class ve Static` 
+	 - `9 - Homework 1 - Value - Reference Type`
+	 - `10 - Homework 2 - OOP - DI - Constructor - Interface Ref. Type - Encapculation` 
+	 - `11 - Homework 3 - Layered architecture` `12 - Homework 5 - PostgreSql`  - `13- Homework 6 - PostgreSql`
