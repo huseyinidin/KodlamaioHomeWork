@@ -4,7 +4,7 @@ This repository consists of practice and project homework.
 
 ### [`GitHub`](https://github.com/huseyinidin/KodlamaioHomeWork)
 ### [`YouTube`](https://www.youtube.com/watch?v=uucRtKBo6Yg&list=PLqG356ExoxZUGwbqoJEKSMnaxVJe4Uvf8)
- - **Week 2**
+ - **Week 3**
  - **Homework**
 	#### [`YouTube`](https://www.youtube.com/watch?v=DfEFbI6z2Is&list=PLqG356ExoxZUGwbqoJEKSMnaxVJe4Uvf8&index=39)
 	 - [*Polimorfizm*](https://github.com/huseyinidin/KodlamaioHomeWork/tree/main/week3/polymorphismDemo/src)
