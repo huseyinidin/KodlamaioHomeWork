@@ -22,3 +22,7 @@ This repository consists of practice and project homework.
 	 - `9 - Homework 1 - Value - Reference Type`
 	 - `10 - Homework 2 - OOP - DI - Constructor - Interface Ref. Type - Encapculation` 
 	 - `11 - Homework 3 - Layered architecture` `12 - Homework 5 - PostgreSql`  - `13- Homework 6 - PostgreSql`
+ - **Week 4**
+	 - [*Week 4*](https://github.com/huseyinidin/KodlamaioHomeWork/tree/main/week4)
+	 - `1 - CRUD Operations`
+

@@ -40,9 +40,9 @@ This repository consists of practice and project homework.
 	 - [*KodlamaIO*](https://github.com/huseyinidin/KodlamaioHomeWork/tree/main/week3/kodlamaio/src)
 	 - `11` `Homework 3 - Layered architecture`
 	#### [`YouTube`](https://www.youtube.com/watch?index=6&list=PLqG356ExoxZVN7rC0KmMo0lvECK97VRZg&v=r_pbdopB4LU)
-	 - [*Customer Management SQL*]()
+	 - [*Customer Management SQL*](https://github.com/huseyinidin/KodlamaioHomeWork/tree/main/week3/customerManagementSQL)
 	 - `12` `Homework 5 - PostgreSql` 
 	#### [`YouTube`](https://www.youtube.com/watch?v=4U54EVknm2Q&list=PLqG356ExoxZXZQt9edXkCS-_dunCq-bXm)
-	 - [*Customer Management*]()
+	 - [*Customer Management*](https://github.com/huseyinidin/KodlamaioHomeWork/tree/main/week3/customerManagement)
 	 - `13` `Homework 6 - PostgreSql`
 	
