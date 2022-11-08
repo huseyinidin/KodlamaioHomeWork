@@ -11,7 +11,7 @@ import kodlamaio.Devs.entities.concretes.Language;
 @Service
 public class LanguageManager implements LanguageService {
 
-	private LanguageRepository languageRepositoryf;
+	private LanguageRepository languageRepository;
 
 	public LanguageManager(LanguageRepository languageRepository) {
 		this.languageRepository = languageRepository;
