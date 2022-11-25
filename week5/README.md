@@ -7,5 +7,5 @@ This repository consists of practice and project homework.
  - **Homework**
 	#### [`KodlamaIO`](https://www.kodlama.io/courses/1868842/lectures/43798502)
 	 - [*KodlamaIO*](https://github.com/huseyinidin/KodlamaioHomeWork/tree/main/week5/kodlamaio/Devs/src/main/java/kodlamaio/Devs)
-	 - `1` `Homework 5 - CRUD Operations` `Database Associate` `OneToMany & ManyToOne` `Dtos`
+	 - `1` `Homework 5 - CRUD Operations - Database Associate - OneToMany & ManyToOne - Dtos`
 	
