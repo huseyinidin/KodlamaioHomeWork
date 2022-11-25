@@ -27,4 +27,4 @@ This repository consists of practice and project homework.
 	 - `1 - CRUD Operations`
  - **Week 5**
 	 - [*Week 5*](https://github.com/huseyinidin/KodlamaioHomeWork/tree/main/week5)
- 	 - `1 - Homework 5 - CRUD Operations` `2 - Database Associate` `3 - OneToMany & ManyToOne` `4 - Dtos`
+ 	 - `1 - Homework 5 - CRUD Operations` ` - Database Associate` `3 - OneToMany & ManyToOne` `4 - Dtos`
